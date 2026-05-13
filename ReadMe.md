@@ -7,11 +7,7 @@
 -->
 
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=blur&height=285&color=0:030014,28:10002B,55:3C096C,80:7B2CBF,100:C77DFF&text=Syed%20Ali%20Hadi&fontColor=FFFFFF&fontSize=58&animation=fadeIn&fontAlignY=36&desc=FinTech%20%E2%80%A2%20UI%2FUX%20%E2%80%A2%20AI%20Product%20Branding%20%E2%80%A2%20Creative%20Technology&descSize=17&descAlignY=58" 
-    alt="Syed Ali Hadi Banner" 
-    width="100%" 
-  />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=285&color=0:030014,28:10002B,55:3C096C,80:7B2CBF,100:C77DFF&text=Syed%20Ali%20Hadi&fontColor=FFFFFF&fontSize=58&animation=fadeIn&fontAlignY=36&desc=FinTech%20%E2%80%A2%20UI%2FUX%20%E2%80%A2%20AI%20Product%20Branding%20%E2%80%A2%20Creative%20Technology&descSize=17&descAlignY=58" alt="Syed Ali Hadi Banner" />
 </p>
 
 <!-- Replace the hero above later with your own Canva banner if you want -->
@@ -25,32 +21,29 @@
 </p>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=19&duration=2600&pause=850&color=C77DFF&center=true&vCenter=true&width=950&lines=FinTech+student+with+a+creative+edge;UI%2FUX+designer+for+finance-focused+interfaces;Graphic+designer+for+AI-powered+platforms;Building+from+Figma+to+GitHub+to+Netlify;Designing+clarity+for+complex+digital+products" 
-    alt="Typing Animation" 
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=19&duration=2600&pause=850&color=C77DFF&center=true&vCenter=true&width=950&lines=FinTech+student+with+a+creative+edge;UI%2FUX+designer+for+finance-focused+interfaces;Graphic+designer+for+AI-powered+platforms;Building+from+Figma+to+GitHub+to+Netlify;Designing+clarity+for+complex+digital+products" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/syed-ali-hadi">
-    <img src="https://img.shields.io/badge/LinkedIn-Syed%20Ali%20Hadi-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button" />
+    <img src="https://img.shields.io/badge/LinkedIn-Syed%20Ali%20Hadi-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/syed-ali-hadi">
-    <img src="https://img.shields.io/badge/GitHub-syed--ali--hadi-10002B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Button" />
+    <img src="https://img.shields.io/badge/GitHub-syed--ali--hadi-10002B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:syedalihadi5918@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Let's%20Talk-5A189A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Button" />
+    <img src="https://img.shields.io/badge/Email-Let's%20Talk-5A189A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=syed-ali-hadi&label=Profile%20Views&color=7B2CBF&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Collaborations-C77DFF?style=for-the-badge&logo=rocket&logoColor=white" alt="Open To Internships and Collaborations" />
-  <img src="https://img.shields.io/badge/Based%20In-Karachi%2C%20Pakistan-240046?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Karachi Pakistan" />
+  <img src="https://img.shields.io/badge/Based%20In-Karachi%2C%20Pakistan-240046?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:030014,45:5A189A,100:C77DFF" width="100%" alt="Purple Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:030014,45:5A189A,100:C77DFF" alt="Divider" />
 </p>
 
 <br/>
@@ -64,13 +57,13 @@
 <h2 align="center">✦ Profile Core</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-FinTech%20Student-10002B?style=for-the-badge&logo=readme&logoColor=white" alt="Role FinTech Student" />
+  <img src="https://img.shields.io/badge/Role-FinTech%20Student-10002B?style=for-the-badge&logo=readme&logoColor=white" alt="Role" />
   <br/>
-  <img src="https://img.shields.io/badge/Design-UI%2FUX%20%2B%20Branding-3C096C?style=for-the-badge&logo=figma&logoColor=white" alt="UI UX and Branding" />
+  <img src="https://img.shields.io/badge/Design-UI%2FUX%20%2B%20Branding-3C096C?style=for-the-badge&logo=figma&logoColor=white" alt="Design" />
   <br/>
-  <img src="https://img.shields.io/badge/Focus-Digital%20Finance-5A189A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Digital Finance Focus" />
+  <img src="https://img.shields.io/badge/Focus-Digital%20Finance-5A189A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Focus" />
   <br/>
-  <img src="https://img.shields.io/badge/Build-Figma%20to%20Live%20Web-7B2CBF?style=for-the-badge&logo=netlify&logoColor=white" alt="Figma to Live Web" />
+  <img src="https://img.shields.io/badge/Build-Figma%20to%20Live%20Web-7B2CBF?style=for-the-badge&logo=netlify&logoColor=white" alt="Build" />
 </p>
 
 <p align="center">
@@ -105,7 +98,7 @@ I like building digital experiences that are <b>minimal, structured, useful, and
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=4&color=0:030014,50:5A189A,100:C77DFF" width="100%" alt="Purple Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=4&color=0:030014,50:5A189A,100:C77DFF" alt="Divider" />
 </p>
 
 ## ✦ Visual Toolkit
@@ -120,7 +113,7 @@ I like building digital experiences that are <b>minimal, structured, useful, and
   <img src="https://img.shields.io/badge/Illustrator-030014?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00" alt="Illustrator" />
   <img src="https://img.shields.io/badge/InDesign-030014?style=for-the-badge&logo=adobeindesign&logoColor=FF3366" alt="InDesign" />
   <img src="https://img.shields.io/badge/Python-10002B?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
-  <img src="https://img.shields.io/badge/C-10002B?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C Language" />
+  <img src="https://img.shields.io/badge/C-10002B?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C" />
   <img src="https://img.shields.io/badge/GitHub-10002B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Netlify-10002B?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Netlify" />
 </p>
@@ -160,7 +153,7 @@ A finance-focused university project built around budgeting, income-expense comp
 
 <p align="center">
   <a href="https://github.com/Syed-Ali-Hadi/Financialbudgetplanner">
-    <img src="https://img.shields.io/badge/💜%20Open%20Repository-7B2CBF?style=for-the-badge&logo=github&logoColor=white" alt="Open Financial Budget Planner Repository" />
+    <img src="https://img.shields.io/badge/Open%20Budget%20Planner%20Repo-7B2CBF?style=for-the-badge&logo=github&logoColor=white" alt="Open Budget Planner Repo" />
   </a>
 </p>
 
@@ -185,7 +178,7 @@ A blood bank finder concept focused on donor registration, emergency requests, g
 
 <p align="center">
   <a href="https://github.com/Syed-Ali-Hadi/Bloodbankfinderapp">
-    <img src="https://img.shields.io/badge/💜%20Open%20Repository-7B2CBF?style=for-the-badge&logo=github&logoColor=white" alt="Open Blood Bank Finder Repository" />
+    <img src="https://img.shields.io/badge/Open%20Blood%20Finder%20Repo-7B2CBF?style=for-the-badge&logo=github&logoColor=white" alt="Open Blood Finder Repo" />
   </a>
 </p>
 
@@ -198,7 +191,7 @@ A blood bank finder concept focused on donor registration, emergency requests, g
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=4&color=0:030014,50:5A189A,100:C77DFF" width="100%" alt="Purple Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=4&color=0:030014,50:5A189A,100:C77DFF" alt="Divider" />
 </p>
 
 ## ✦ Experience Snapshot
@@ -212,7 +205,7 @@ A blood bank finder concept focused on donor registration, emergency requests, g
 <h3 align="center">🟣 Nexobe</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Graphic%20Designer-7B2CBF?style=for-the-badge" alt="Graphic Designer at Nexobe" />
+  <img src="https://img.shields.io/badge/Role-Graphic%20Designer-7B2CBF?style=for-the-badge" alt="Graphic Designer" />
 </p>
 
 <p align="center">
@@ -255,18 +248,11 @@ Built practical design foundations across Adobe tools, Figma prototyping, UI/UX 
 ## ✦ GitHub Pulse
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=syed-ali-hadi&background=030014&border=5A189A&stroke=C77DFF&ring=C77DFF&fire=9D4EDD&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C77DFF&sideLabels=FFFFFF&dates=E0AAFF&hide_border=false" 
-    alt="GitHub Streak Stats" 
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=syed-ali-hadi&background=030014&border=5A189A&stroke=C77DFF&ring=C77DFF&fire=9D4EDD&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C77DFF&sideLabels=FFFFFF&dates=E0AAFF&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=syed-ali-hadi&bg_color=030014&color=FFFFFF&line=C77DFF&point=9D4EDD&area=true&area_color=5A189A&hide_border=false&border_color=5A189A&custom_title=Syed%20Ali%20Hadi%20GitHub%20Activity" 
-    alt="GitHub Activity Graph" 
-    width="100%" 
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syed-ali-hadi&bg_color=030014&color=FFFFFF&line=C77DFF&point=9D4EDD&area=true&area_color=5A189A&hide_border=false&border_color=5A189A&custom_title=Syed%20Ali%20Hadi%20GitHub%20Activity" alt="GitHub Activity Graph" />
 </p>
 
 <br/>
@@ -323,40 +309,15 @@ From idea and prototype to version control, deployment, testing, and improvement
 
 <br/>
 
-## ✦ Profile Metrics
-
 <p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syed-ali-hadi&theme=github_dark" 
-    alt="GitHub Profile Details" 
-    width="100%" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=syed-ali-hadi&show_icons=true&bg_color=030014&title_color=C77DFF&text_color=FFFFFF&icon_color=9D4EDD&border_color=5A189A&hide_border=false&rank_icon=github&custom_title=Syed%20Ali%20Hadi%20Stats" 
-    alt="Syed Ali Hadi GitHub Stats" 
-    height="180" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=syed-ali-hadi&layout=compact&bg_color=030014&title_color=C77DFF&text_color=FFFFFF&border_color=5A189A&hide_border=false&custom_title=Most%20Used%20Languages" 
-    alt="Most Used Languages" 
-    height="180" 
-  />
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=4&color=0:030014,50:5A189A,100:C77DFF" width="100%" alt="Purple Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=4&color=0:030014,50:5A189A,100:C77DFF" alt="Divider" />
 </p>
 
 ## ✦ Recognition
 
 <p align="center">
   <img src="https://img.shields.io/badge/Certified%20Graphic%20Designer-LRN-7B2CBF?style=for-the-badge" alt="Certified Graphic Designer LRN" />
-  <img src="https://img.shields.io/badge/Graphics%20Designing-SBTE-5A189A?style=for-the-badge" alt="SBTE Graphics Designing" />
+  <img src="https://img.shields.io/badge/Graphics%20Designing-SBTE-5A189A?style=for-the-badge" alt="Graphics Designing SBTE" />
   <img src="https://img.shields.io/badge/Bano%20Qabil-Certified%20Designer-3C096C?style=for-the-badge" alt="Bano Qabil Certified Designer" />
   <img src="https://img.shields.io/badge/Nexobe-Experience%20Certificate-240046?style=for-the-badge" alt="Nexobe Experience Certificate" />
   <img src="https://img.shields.io/badge/BIEK-Top%2050%20Student-C77DFF?style=for-the-badge" alt="BIEK Top 50 Student" />
@@ -403,10 +364,10 @@ Figma to GitHub to Netlify deployment
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20To-UI%2FUX%20Internships-030014?style=for-the-badge&logo=figma&logoColor=C77DFF" alt="Open to UI UX Internships" />
-  <img src="https://img.shields.io/badge/Open%20To-Graphic%20Design%20Roles-10002B?style=for-the-badge&logo=adobecreativecloud&logoColor=white" alt="Open to Graphic Design Roles" />
-  <img src="https://img.shields.io/badge/Open%20To-FinTech%20Projects-240046?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Open to FinTech Projects" />
-  <img src="https://img.shields.io/badge/Open%20To-AI%20Product%20Branding-5A189A?style=for-the-badge&logo=openai&logoColor=white" alt="Open to AI Product Branding" />
+  <img src="https://img.shields.io/badge/Open%20To-UI%2FUX%20Internships-030014?style=for-the-badge&logo=figma&logoColor=C77DFF" alt="Open To UI UX Internships" />
+  <img src="https://img.shields.io/badge/Open%20To-Graphic%20Design%20Roles-10002B?style=for-the-badge&logo=adobecreativecloud&logoColor=white" alt="Open To Graphic Design Roles" />
+  <img src="https://img.shields.io/badge/Open%20To-FinTech%20Projects-240046?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Open To FinTech Projects" />
+  <img src="https://img.shields.io/badge/Open%20To-AI%20Product%20Branding-5A189A?style=for-the-badge&logo=openai&logoColor=white" alt="Open To AI Product Branding" />
 </p>
 
 <br/>
@@ -421,14 +382,10 @@ Figma to GitHub to Netlify deployment
     <img src="https://img.shields.io/badge/Send%20Message-Email-10002B?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email" />
   </a>
   <a href="https://github.com/syed-ali-hadi">
-    <img src="https://img.shields.io/badge/Follow%20My%20Work-GitHub-240046?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
+    <img src="https://img.shields.io/badge/Follow%20My%20Work-GitHub-240046?style=for-the-badge&logo=github&logoColor=white" alt="Follow GitHub" />
   </a>
 </p>
 
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=145&section=footer&color=0:030014,28:10002B,55:3C096C,80:7B2CBF,100:C77DFF" 
-    alt="Footer Wave" 
-    width="100%" 
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=145&section=footer&color=0:030014,28:10002B,55:3C096C,80:7B2CBF,100:C77DFF" alt="Footer Wave" />
 </p>
