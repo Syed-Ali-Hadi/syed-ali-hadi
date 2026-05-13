@@ -1,6 +1,11 @@
 <!--
   ============================================================
   SYED ALI HADI — GITHUB PROFILE READMED5FF" alt="Purple Divider">  SYED ALI HADI — GITHUB PROFILE README
+    Variation: Noir Amethyst
+  Palette: Deep Royal Purple · Black · White
+  Mode: Auto Dark/Light using prefers-color-scheme
+  ============================================================
+  -->
   </picture>
 </p>
 
@@ -315,11 +320,6 @@ Figma to GitHub to Netlify deployment
     <img src="https://capsule-render.vercel.app/api?type=waving&height=145&section=footer&color=0:020006,28:12001F,55:2E1065,80:6D28D9,100:E9D5FF" alt="Footer Wave">
   </picture>
 </p>
-  Variation: Noir Amethyst
-  Palette: Deep Royal Purple · Black · White
-  Mode: Auto Dark/Light using prefers-color-scheme
-  ============================================================
--->
 
 <p align="center">
   <picture>
@@ -424,3 +424,4 @@ I like building digital experiences that are <b>minimal, structured, useful, and
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&height=4&color=0:020006,50:4C1D95,100:E9D5FF">
     <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&height=4&color=0:FFFFFF,50:8B5CF6,100:111111">
+</p>
